@@ -1,0 +1,2571 @@
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /bookinghistory HTTP/1.1" 200 12398
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /bookinghistory HTTP/1.1" 200 12398
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /bookinghistory HTTP/1.1" 200 12398
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /bookinghistory HTTP/1.1" 200 12398
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\auth\jwt.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /imac
+"GET /imac HTTP/1.1" 404 5045
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /mail.js
+Not Found: /mail.js
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+- Broken pipe from ('127.0.0.1', 59257)
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 25837
+"POST /loadlab HTTP/1.1" 200 25837
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25837
+"GET /portal HTTP/1.1" 200 25837
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10623
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10623
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10623
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10623
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10649
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10649
+"GET /portal HTTP/1.1" 200 25837
+"GET /static/portal.css HTTP/1.1" 200 10649
+D:\MyCode\MainProjects\iman-main\imac\imac_main\middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10651
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10651
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10729
+"GET /static/fonts/Sen.ttf HTTP/1.1" 200 50172
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10729
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10745
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10745
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10745
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10745
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10745
+"GET /portal HTTP/1.1" 200 25839
+"GET /static/portal.css HTTP/1.1" 200 10749
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11021
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26042
+"GET /static/portal.css HTTP/1.1" 200 11019
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5230
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 134, in send_messages
+    sent = self._send(message)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 152, in _send
+    self.connection.sendmail(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError v5-20020a5d43c5000000b0031c6e1ea4c7sm11710828wrr.90 - gsmtp', 'srmimactest@gmail.com')
+"GET /send-email HTTP/1.1" 500 95110
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 134, in send_messages
+    sent = self._send(message)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 152, in _send
+    self.connection.sendmail(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError q18-20020adff792000000b0030647449730sm11670559wrp.74 - gsmtp', 'srmimactest@gmail.com')
+"GET /send-email HTTP/1.1" 500 95268
+D:\MyCode\MainProjects\iman-main\imac\imac_main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 134, in send_messages
+    sent = self._send(message)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 152, in _send
+    self.connection.sendmail(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError k12-20020adff5cc000000b00326f5d0ce0asm11695337wrp.21 - gsmtp', 'srmimactest@gmail.com')
+"GET /send-email HTTP/1.1" 500 95268
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 134, in send_messages
+    sent = self._send(message)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 152, in _send
+    self.connection.sendmail(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError x10-20020a05600c21ca00b003feea62440bsm13833144wmj.43 - gsmtp', 'srmimactest@gmail.com')
+"GET /send-email HTTP/1.1" 500 95252
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q12-20020a05600c2e4c00b0040648217f4fsm18762879wmf.39 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101436
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m21-20020a05600c4f5500b0040841e79715sm14327991wmq.27 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101424
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i21-20020a05600c355500b00405bbfd5d16sm14323178wmq.7 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101417
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials r4-20020adff704000000b0032d88e370basm11716199wrp.34 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101421
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials az20-20020a05600c601400b004054dcbf92asm14031736wmb.20 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101431
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b11-20020a05600010cb00b00324853fc8adsm11669570wrx.104 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101443
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d5-20020adffbc5000000b003233b554e6esm11579659wrs.85 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101429
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials g13-20020a05600c4ecd00b004064ac107cfsm12286935wmq.39 - gsmtp')
+"GET /send-email HTTP/1.1" 500 101436
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 85, in open
+    self.connection = self.connection_class(
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+"GET /send-email HTTP/1.1" 500 109671
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 85, in open
+    self.connection = self.connection_class(
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+"GET /send-email HTTP/1.1" 500 109671
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5230
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5230
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 346, in send_email
+    email.send()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\mail\backends\smtp.py", line 85, in open
+    self.connection = self.connection_class(
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+"GET /send-email HTTP/1.1" 500 109534
+D:\MyCode\MainProjects\iman-main\imac\imac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /send-email
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view imac_main.views.send_email didn't return an HttpResponse object. It returned None instead.
+"GET /send-email HTTP/1.1" 500 68328
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26043
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 26048
+Internal Server Error: /submitreq
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 262, in submitreq
+    stud_emails = User['stud_emails']
+                  ~~~~^^^^^^^^^^^^^^^
+KeyError: 'stud_emails'
+"POST /submitreq HTTP/1.1" 500 71052
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26048
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 14907
+"GET /static/adminportal.css HTTP/1.1" 304 0
+Internal Server Error: /approve-booking
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 109, in approve_booking
+    fbapprove_booking(uid)
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py", line 105, in fbapprove_booking
+    stud_emails=bookingid['stud_emails']
+                ~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'stud_emails'
+"POST /approve-booking HTTP/1.1" 500 77093
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /reject-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26048
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26048
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26048
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 14907
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 64879)
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 26472
+"GET /static/portal.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 304 0
+"GET /static/assets/loginimg.png HTTP/1.1" 304 0
+"GET /static/assets/SRMLogo.png HTTP/1.1" 304 0
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 304 0
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 26472
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26472
+"GET /portal HTTP/1.1" 200 26472
+"GET /portal HTTP/1.1" 200 26472
+"GET /portal HTTP/1.1" 200 26472
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/Sen.ttf HTTP/1.1" 200 50172
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 26472
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26472
+"GET /static/portal.css HTTP/1.1" 200 11019
+"GET /portal HTTP/1.1" 200 26913
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26913
+"GET /static/portal.css HTTP/1.1" 200 11097
+"GET /portal HTTP/1.1" 200 26927
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26955
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26955
+"GET /static/portal.css HTTP/1.1" 200 11097
+"GET /portal HTTP/1.1" 200 26955
+"GET /static/portal.css HTTP/1.1" 200 11097
+"GET /portal HTTP/1.1" 200 26979
+"GET /static/portal.css HTTP/1.1" 200 11116
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11381
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11223
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11241
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11266
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11321
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11379
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11379
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11455
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11455
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11455
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11455
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11455
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11473
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11491
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26877
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11515
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11514
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11514
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11514
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11514
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11514
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11548
+"GET /portal HTTP/1.1" 200 26895
+"GET /static/portal.css HTTP/1.1" 200 11548
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 26899
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26948
+"GET /portal HTTP/1.1" 200 26947
+"GET /portal HTTP/1.1" 200 26898
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26830
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26830
+"GET /portal HTTP/1.1" 200 28560
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28954
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28947
+"GET /portal HTTP/1.1" 200 28992
+"GET /portal HTTP/1.1" 200 28934
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28682
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28682
+"GET /portal HTTP/1.1" 200 28771
+"GET /portal HTTP/1.1" 200 28909
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 28909
+"GET /bookinghistory HTTP/1.1" 200 31654
+"POST /get-report HTTP/1.1" 200 19469
+"POST /loadlab HTTP/1.1" 200 28909
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 28909
+"POST /loadlab HTTP/1.1" 200 28909
+"POST /loadlab HTTP/1.1" 200 28909
+"POST /loadlab HTTP/1.1" 200 28909
+"POST /loadlab HTTP/1.1" 200 28909
+"POST /loadlab HTTP/1.1" 200 28910
+"POST /loadlab HTTP/1.1" 200 29038
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 29161
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 29154
+"POST /loadlab HTTP/1.1" 200 29161
+"POST /loadlab HTTP/1.1" 200 29242
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 29242
+"POST /loadlab HTTP/1.1" 200 29242
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET /portal HTTP/1.1" 200 29242
+"GET /static/portal.css HTTP/1.1" 200 11600
+"GET /static/fonts/Sen.ttf HTTP/1.1" 200 50172
+"GET /portal HTTP/1.1" 200 29210
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29256
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29256
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29250
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29292
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29384
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29391
+"GET /portal HTTP/1.1" 200 29405
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29427
+"GET /portal HTTP/1.1" 200 29495
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29495
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 29578
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29617
+"GET /portal HTTP/1.1" 200 29617
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29604
+"GET /portal HTTP/1.1" 200 29604
+"GET /portal HTTP/1.1" 200 29606
+"GET /portal HTTP/1.1" 200 29606
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 29606
+"GET /portal HTTP/1.1" 200 29602
+"GET /portal HTTP/1.1" 200 29675
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30102
+"GET /portal HTTP/1.1" 200 29675
+"GET /portal HTTP/1.1" 200 30157
+"GET /portal HTTP/1.1" 200 30155
+"GET /portal HTTP/1.1" 200 30151
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30155
+"GET /portal HTTP/1.1" 200 30110
+"GET /portal HTTP/1.1" 200 30136
+"GET /portal HTTP/1.1" 200 29716
+"GET /portal HTTP/1.1" 200 30181
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 30181
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 30181
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 30209
+"POST /loadlab HTTP/1.1" 200 30012
+"POST /loadlab HTTP/1.1" 200 30162
+"POST /loadlab HTTP/1.1" 200 30181
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 30124
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30124
+"GET /portal HTTP/1.1" 200 30125
+"GET /portal HTTP/1.1" 200 30131
+"GET /portal HTTP/1.1" 200 30127
+"GET /portal HTTP/1.1" 200 30136
+"GET /portal HTTP/1.1" 200 24805
+"GET /portal HTTP/1.1" 200 24805
+"GET /portal HTTP/1.1" 200 24805
+"GET /static/portal.css HTTP/1.1" 200 11600
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 24805
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET /portal HTTP/1.1" 200 24805
+"GET /portal HTTP/1.1" 200 24685
+"GET /portal HTTP/1.1" 200 24761
+"GET /portal HTTP/1.1" 200 24761
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 24761
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24761
+"GET /portal HTTP/1.1" 200 24915
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24851
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24851
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /bookinghistory HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /bookinghistory HTTP/1.1" 200 31654
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /static/adminportal.css HTTP/1.1" 304 0
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 24851
+"GET / HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"GET /portal HTTP/1.1" 200 24851
+"POST /loadlab HTTP/1.1" 200 24851
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24851
+"POST /loadlab HTTP/1.1" 200 25199
+"GET /bookinghistory HTTP/1.1" 200 38294
+"POST /get-report HTTP/1.1" 200 7787
+"GET / HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /adminportal HTTP/1.1" 200 12509
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24427
+"GET /portal HTTP/1.1" 200 24851
+"GET /static/portal.css HTTP/1.1" 200 11600
+"GET /portal HTTP/1.1" 200 24427
+"GET /portal HTTP/1.1" 200 24851
+"POST /loadlab HTTP/1.1" 200 24427
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24427
+"GET / HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 14891
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 12509
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24427
+"GET /adminportal HTTP/1.1" 200 7900
+"GET /portal HTTP/1.1" 200 24660
+"GET /portal HTTP/1.1" 200 24659
+"GET /portal HTTP/1.1" 200 24653
+"GET /portal HTTP/1.1" 200 24653
+"GET /portal HTTP/1.1" 200 24653
+"GET /portal HTTP/1.1" 200 24653
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 24653
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /portal HTTP/1.1" 200 24653
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /portal HTTP/1.1" 200 24652
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /portal HTTP/1.1" 200 24652
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /portal HTTP/1.1" 200 24652
+"GET /static/portal.css HTTP/1.1" 200 11868
+"GET /portal HTTP/1.1" 200 24686
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24918
+"GET /static/portal.css HTTP/1.1" 200 12046
+"GET /portal HTTP/1.1" 200 24918
+"GET /static/portal.css HTTP/1.1" 200 12069
+"GET /portal HTTP/1.1" 200 24918
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 24918
+"GET /static/portal.css HTTP/1.1" 200 12069
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12164
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12196
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12242
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12274
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12274
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12349
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12319
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12323
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12293
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12273
+"POST /loadlab HTTP/1.1" 200 24969
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 24924
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 24939
+"GET /static/portal.css HTTP/1.1" 200 12241
+"GET /portal HTTP/1.1" 200 25226
+"GET /static/portal.css HTTP/1.1" 200 12658
+"GET /portal HTTP/1.1" 200 25224
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25145
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25150
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25199
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25199
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25199
+"GET /portal HTTP/1.1" 200 25199
+"GET /static/portal.css HTTP/1.1" 200 12675
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 25199
+"GET /static/portal.css HTTP/1.1" 200 12727
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12861
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12877
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12877
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12878
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12878
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12878
+"GET /portal HTTP/1.1" 200 25254
+"GET /static/portal.css HTTP/1.1" 200 12879
+"GET /portal HTTP/1.1" 200 25308
+"GET /static/portal.css HTTP/1.1" 200 12938
+"GET /portal HTTP/1.1" 200 25308
+"GET /static/portal.css HTTP/1.1" 200 12955
+"GET /portal HTTP/1.1" 200 25308
+"GET /static/portal.css HTTP/1.1" 200 12955
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12955
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 13007
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12957
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12956
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12956
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12956
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12940
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12940
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12940
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 200 12940
+"GET /portal HTTP/1.1" 200 25339
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25324
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25324
+"GET /static/portal.css HTTP/1.1" 200 12940
+"GET /portal HTTP/1.1" 200 25341
+"GET /static/portal.css HTTP/1.1" 200 12941
+"GET /portal HTTP/1.1" 200 25341
+"GET /static/portal.css HTTP/1.1" 200 12942
+"GET /portal HTTP/1.1" 200 25341
+"GET /static/portal.css HTTP/1.1" 200 12942
+"GET /portal HTTP/1.1" 200 25341
+"GET /static/portal.css HTTP/1.1" 200 12942
+"GET /portal HTTP/1.1" 200 25341
+"GET /static/portal.css HTTP/1.1" 200 12942
+"GET /portal HTTP/1.1" 200 25392
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 25392
+"GET /static/portal.css HTTP/1.1" 200 12758
+Forbidden (CSRF token missing.): /loadlab
+"POST /loadlab HTTP/1.1" 403 2506
+"GET /portal HTTP/1.1" 200 25413
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 25413
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 25443
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 25443
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 26028
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 26028
+"GET /static/portal.css HTTP/1.1" 200 12842
+"POST /loadlab HTTP/1.1" 200 26028
+"GET /static/portal.css HTTP/1.1" 200 12859
+"POST /loadlab HTTP/1.1" 200 26028
+"GET /static/portal.css HTTP/1.1" 200 12842
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 25998
+"GET /static/portal.css HTTP/1.1" 200 12842
+"GET /portal HTTP/1.1" 200 26153
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26239
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26196
+"GET /static/portal.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 26196
+"GET /static/portal.css HTTP/1.1" 200 12842
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 26196
+"GET /portal HTTP/1.1" 200 26196
+"GET /static/portal.css HTTP/1.1" 200 12843
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26196
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26196
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26196
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26288
+"GET /portal HTTP/1.1" 200 26288
+"GET /static/portal.css HTTP/1.1" 200 12936
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26300
+"GET /static/portal.css HTTP/1.1" 200 12935
+"GET /portal HTTP/1.1" 200 26358
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26437
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /bookinghistory HTTP/1.1" 200 12189
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26437
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26440
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26495
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26428
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26425
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 12935
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 12935
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 12935
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 12967
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 12967
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13002
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13002
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13027
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13103
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13128
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13128
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26425
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /portal HTTP/1.1" 200 26339
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13130
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 200 26322
+"GET /static/portal.css HTTP/1.1" 200 13101
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26474
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26472
+"GET /portal HTTP/1.1" 200 26506
+"GET /portal HTTP/1.1" 200 26506
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 26474
+"GET /portal HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 26520
+"POST /loadlab HTTP/1.1" 200 26520
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 26683
+"POST /loadlab HTTP/1.1" 200 26683
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26683
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 7897
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5506
+"POST /loadlab HTTP/1.1" 200 26683
+"GET /bookinghistory HTTP/1.1" 200 14488
+"GET /static/adminportal.css HTTP/1.1" 200 2596
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 26683
+"POST /loadlab HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+"POST /loadlab HTTP/1.1" 200 26683
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+- Broken pipe from ('127.0.0.1', 64247)
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 31477
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\timetest.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 200 31477
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 26683
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 31477
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 27086
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 27086
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 27086
+"GET /portal HTTP/1.1" 200 27135
+"GET /portal HTTP/1.1" 200 27070
+"GET /portal HTTP/1.1" 200 27063
+"GET /portal HTTP/1.1" 200 27065
+"GET /portal HTTP/1.1" 200 27015
+"GET /portal HTTP/1.1" 200 27018
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 27018
+"GET /adminportal HTTP/1.1" 302 0
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /adminportal HTTP/1.1" 200 5506
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /portal HTTP/1.1" 200 27018
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /static/adminportal.css HTTP/1.1" 200 2618
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /static/adminportal.css HTTP/1.1" 304 0
+"GET /adminportal HTTP/1.1" 200 5506
+"GET /static/adminportal.css HTTP/1.1" 200 2618
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 28080
+"POST /loadlab HTTP/1.1" 200 28110
+"POST /loadlab HTTP/1.1" 200 28173
+"POST /loadlab HTTP/1.1" 200 28143
+"POST /submitreq HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28143
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28143
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28143
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28143
+"GET /adminportal HTTP/1.1" 200 7907
+"GET /static/adminportal.css HTTP/1.1" 304 0
+"GET /bookinghistory HTTP/1.1" 200 5915
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 28146
+"GET /portal HTTP/1.1" 200 28146
+"GET /static/portal.css HTTP/1.1" 200 13103
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28146
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /bookinghistory HTTP/1.1" 200 5925
+"GET /static/adminportal.css HTTP/1.1" 304 0
+"GET /bookinghistory HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 7913
+"GET /bookinghistory HTTP/1.1" 200 5925
+"GET /portal HTTP/1.1" 200 28570
+"GET /static/portal.css HTTP/1.1" 200 13103
+"GET / HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 7913
+"GET /portal HTTP/1.1" 200 28570
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13198
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13215
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13216
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13240
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13240
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13387
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13387
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13244
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13387
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13244
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13463
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13489
+"GET /portal HTTP/1.1" 200 28238
+"GET /static/portal.css HTTP/1.1" 200 13489
+"GET /portal HTTP/1.1" 200 28332
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28353
+"GET /static/portal.css HTTP/1.1" 200 13616
+"GET /portal HTTP/1.1" 200 28353
+"GET /static/portal.css HTTP/1.1" 200 13639
+"GET /portal HTTP/1.1" 200 28353
+"GET /static/portal.css HTTP/1.1" 200 13640
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13616
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13638
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13663
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13679
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13838
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13838
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13838
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13838
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13862
+"GET /portal HTTP/1.1" 200 28360
+"GET /static/portal.css HTTP/1.1" 200 13871
+"GET /portal HTTP/1.1" 200 28577
+"GET /static/portal.css HTTP/1.1" 200 14010
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14148
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14149
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14149
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14149
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14150
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14150
+"GET /portal HTTP/1.1" 200 28584
+"GET /static/portal.css HTTP/1.1" 200 14150
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 200 14289
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 200 14289
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 200 14289
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 200 14290
+"GET /portal HTTP/1.1" 200 28602
+"GET /static/portal.css HTTP/1.1" 200 14290
+"GET /portal HTTP/1.1" 200 28778
+"GET /static/portal.css HTTP/1.1" 200 14575
+"GET /portal HTTP/1.1" 200 28989
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 200 14572
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 200 14573
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 200 14624
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 200 14624
+"GET /portal HTTP/1.1" 200 28926
+"GET /static/portal.css HTTP/1.1" 200 14624
+"GET /portal HTTP/1.1" 200 29101
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29101
+"GET /static/portal.css HTTP/1.1" 200 14643
+"GET /portal HTTP/1.1" 200 29101
+"GET /static/portal.css HTTP/1.1" 200 14663
+"GET /portal HTTP/1.1" 200 29101
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29101
+"GET /static/portal.css HTTP/1.1" 200 14662
+"GET /portal HTTP/1.1" 200 29124
+"GET /static/portal.css HTTP/1.1" 200 14725
+"GET /portal HTTP/1.1" 200 29124
+"GET /static/portal.css HTTP/1.1" 200 14726
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14717
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14717
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14716
+"GET /portal HTTP/1.1" 200 29129
+"GET /static/portal.css HTTP/1.1" 200 14735
+"GET /portal HTTP/1.1" 200 29138
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29279
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29293
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 29293
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 30189
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30252
+"GET /portal HTTP/1.1" 200 30231
+"GET /portal HTTP/1.1" 200 30227
+"GET /portal HTTP/1.1" 200 30223
+"GET /portal HTTP/1.1" 200 30250
+"GET /portal HTTP/1.1" 200 30243
+"GET /portal HTTP/1.1" 200 30243
+"GET /static/portal.css HTTP/1.1" 200 14868
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 30243
+"GET /static/portal.css HTTP/1.1" 200 15770
+"GET /portal HTTP/1.1" 200 30243
+"GET /static/portal.css HTTP/1.1" 200 15766
+"GET /portal HTTP/1.1" 200 30659
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30675
+"GET /portal HTTP/1.1" 200 30696
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30256
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30256
+"GET /portal HTTP/1.1" 200 30734
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30690
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30690
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 30685
+"GET /portal HTTP/1.1" 200 31191
+"GET /static/portal.css HTTP/1.1" 200 15963
+"GET /portal HTTP/1.1" 200 31484
+"GET /static/portal.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 31484
+"GET /static/portal.css HTTP/1.1" 200 15963
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 31468
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31468
+"GET /static/portal.css HTTP/1.1" 200 16016
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 31503
+"GET /static/portal.css HTTP/1.1" 200 16126
+"GET /portal HTTP/1.1" 200 31503
+"GET /static/portal.css HTTP/1.1" 200 16126
+"GET /portal HTTP/1.1" 200 31503
+"GET /static/portal.css HTTP/1.1" 200 16130
+"GET /portal HTTP/1.1" 200 31852
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31842
+"GET /portal HTTP/1.1" 200 31847
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31854
+"GET /portal HTTP/1.1" 200 31794
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31800
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31813
+"GET /portal HTTP/1.1" 200 31856
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31869
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31856
+"GET /portal HTTP/1.1" 200 31669
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /portal
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001826A072E90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 826, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 826, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 826, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='srmwebedit-default-rtdb.asia-southeast1.firebasedatabase.app', port=443): Max retries exceeded with url: /request_count.json?auth=None (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001826A072E90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\middleware.py", line 25, in __call__
+    request_count = db.child("request_count").get().val()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrebase\pyrebase.py", line 172, in get
+    request_object = self.requests.get(request_ref)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='srmwebedit-default-rtdb.asia-southeast1.firebasedatabase.app', port=443): Max retries exceeded with url: /request_count.json?auth=None (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001826A072E90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+"GET /portal HTTP/1.1" 500 178384
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 31669
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 31662
+"GET /portal HTTP/1.1" 200 31652
+Internal Server Error: /submitreq
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 257, in submitreq
+    lab_no = request.POST.get('lab-no')[0]
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'NoneType' object is not subscriptable
+"POST /submitreq HTTP/1.1" 500 69160
+Internal Server Error: /submitreq
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py", line 257, in submitreq
+    lab_no = request.POST.get('lab-no')[0]
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'NoneType' object is not subscriptable
+"POST /submitreq HTTP/1.1" 500 69160
+"GET /portal HTTP/1.1" 200 31656
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 31656
+"GET /portal HTTP/1.1" 200 31758
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 31758
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 31758
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 32316
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 32316
+"GET /portal HTTP/1.1" 200 32558
+"POST /submitreq HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 32558
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 32558
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /portal HTTP/1.1" 200 32593
+"GET /portal HTTP/1.1" 200 32549
+"GET /portal HTTP/1.1" 200 32549
+"GET /portal HTTP/1.1" 200 32549
+"GET /portal HTTP/1.1" 200 32501
+"GET /portal HTTP/1.1" 200 32659
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 32774
+"GET /portal?title=dvbjbf HTTP/1.1" 200 32774
+"GET /portal?title=dbn HTTP/1.1" 200 32774
+"GET /portal?title=dbn HTTP/1.1" 200 32785
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal?title= HTTP/1.1" 200 32785
+"GET /portal?title= HTTP/1.1" 200 32785
+"GET /portal?title= HTTP/1.1" 200 32761
+"GET / HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 32761
+"GET /portal? HTTP/1.1" 200 32761
+"GET /portal? HTTP/1.1" 200 32762
+"GET /portal? HTTP/1.1" 200 32762
+"GET /portal? HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 32762
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 32779
+"GET /portal HTTP/1.1" 200 32770
+"GET /portal HTTP/1.1" 200 32773
+"GET /portal HTTP/1.1" 200 32773
+"GET /portal HTTP/1.1" 200 32773
+"GET /static/portal.css HTTP/1.1" 200 16130
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /portal HTTP/1.1" 200 32773
+"GET /portal HTTP/1.1" 200 32786
+"GET /portal HTTP/1.1" 200 32790
+"GET /portal HTTP/1.1" 200 32826
+"GET /portal HTTP/1.1" 200 32790
+"GET /portal HTTP/1.1" 200 32851
+"GET /portal HTTP/1.1" 200 32925
+"POST /loadlab HTTP/1.1" 200 32955
+"POST /loadlab HTTP/1.1" 200 32925
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37719
+"GET /static/portal.css HTTP/1.1" 304 0
+"GET /portal HTTP/1.1" 200 37719
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+"GET /portal HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37719
+"GET /portal HTTP/1.1" 200 37748
+"POST /loadlab HTTP/1.1" 200 32931
+"POST /loadlab HTTP/1.1" 200 37748
+"POST /loadlab HTTP/1.1" 200 37748
+"POST /loadlab HTTP/1.1" 200 37748
+"POST /loadlab HTTP/1.1" 200 37748
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16131
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16131
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16131
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16146
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16132
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 32931
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16148
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 32783
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 32783
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\database.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /loadlab HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 32931
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 7913
+"GET /static/adminportal.css HTTP/1.1" 304 0
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+"POST /loadlab HTTP/1.1" 200 32931
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+D:\MyCode\MainProjects\iman-main\imac\imac_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+"GET /adminportal HTTP/1.1" 200 7919
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+"POST /loadlab HTTP/1.1" 200 33105
+"GET /bookinghistory HTTP/1.1" 200 32472
+"POST /loadlab HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+"GET /static/portal.css HTTP/1.1" 304 0
+"POST /loadlab HTTP/1.1" 200 33105
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 37748
+"GET /adminportal HTTP/1.1" 200 7919
+"POST /loadlab HTTP/1.1" 200 33279
+"POST /approve-booking HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\emailmanager.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 304 0
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+"GET /static/adminportal.css HTTP/1.1" 200 2618
+"GET /portal HTTP/1.1" 200 33370
+"GET /static/portal.css HTTP/1.1" 200 16147
+"GET /bookinghistory HTTP/1.1" 200 16160
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3151
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+"GET /static/adminportal.css HTTP/1.1" 200 2618
+"GET /portal HTTP/1.1" 200 33370
+"GET /static/portal.css HTTP/1.1" 200 16147
+"GET /portal HTTP/1.1" 200 33370
+"POST /loadlab HTTP/1.1" 200 33370
+"GET /bookinghistory HTTP/1.1" 200 4131
+"GET /logout HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3151
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 5512
+"GET /portal HTTP/1.1" 200 33370
+"GET /bookinghistory HTTP/1.1" 200 14361
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3220
+"GET /static/login.css HTTP/1.1" 304 0
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5049
+"GET /static/assets/SRMLogo.png HTTP/1.1" 304 0
+"GET /static/fonts/Mark-Medium.ttf HTTP/1.1" 404 1817
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5061
+"GET / HTTP/1.1" 200 3220
+"GET /static/fonts/Mark-Medium.ttf HTTP/1.1" 404 1817
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5049
+"GET / HTTP/1.1" 200 3220
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+"GET /static/login.css HTTP/1.1" 200 1315
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5049
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+"GET /signup HTTP/1.1" 200 4518
+"GET /static/style.css HTTP/1.1" 200 1375
+"POST /signupPost HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3220
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5049
+"POST /login HTTP/1.1" 302 0
+"GET /portal_pending HTTP/1.1" 200 1192
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3220
+"GET /static/login.css HTTP/1.1" 200 1315
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"GET /static/assets/SRMLogo.png HTTP/1.1" 200 10241
+"GET /static/fonts/IBMPlexSans-Bold.ttf HTTP/1.1" 200 175712
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5066
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3220
+"GET /static/assets/loginimg.png HTTP/1.1" 200 369417
+Not Found: /mail.js
+"GET /mail.js HTTP/1.1" 404 5054
+"POST /login HTTP/1.1" 200 19
+"POST /login HTTP/1.1" 200 19
+"POST /login HTTP/1.1" 200 19
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\fbauth.py changed, reloading.
+Watching for file changes with StatReloader
+D:\MyCode\MainProjects\iman-main\imac\imac_main\scripts\fbauth.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /login HTTP/1.1" 200 19
+"POST /login HTTP/1.1" 200 19
+"POST /login HTTP/1.1" 302 0
+"GET /adminportal HTTP/1.1" 200 6244
+"GET /static/adminportal.css HTTP/1.1" 200 2618
+"GET /portal HTTP/1.1" 200 33370
+"GET /static/portal.css HTTP/1.1" 200 16147
+"POST /submitreq HTTP/1.1" 302 0
+"GET /portal HTTP/1.1" 200 33631
+"GET /bookinghistory HTTP/1.1" 200 121966
